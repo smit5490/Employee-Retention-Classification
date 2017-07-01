@@ -6,11 +6,11 @@ The goal of this project is to develop an employee retention classification mode
 
 The repository contains the following Python code:
 
-Module 1 - Exploratory Analysis.ipynb
-Module 2 - ABT Construction.ipynb
-Module 3 - Classification Algorithms.ipynb
-Module 4 - Model Training.ipynb
-Module 5 - Project Delivery.ipynb
+* Module 1 - Exploratory Analysis.ipynb
+* Module 2 - ABT Construction.ipynb
+* Module 3 - Classification Algorithms.ipynb
+* Module 4 - Model Training.ipynb
+* Module 5 - Project Delivery.ipynb
 
 The raw data set used for the modules is in project_files/employee_data.csv. The data dictionary is called Project-3-Data-Dictionary.pdf
 
